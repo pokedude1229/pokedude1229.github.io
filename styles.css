@@ -1,5 +1,9 @@
 body {
-    background-image: url('images/website_background.gif');
+    background-image: url('images/website_background_2.gif');
+}
+
+#homebody {
+    background-image: url('images/woodbackground.png');
 }
 
 p {
@@ -45,4 +49,13 @@ p {
     1px -1px 0 #91c0d6,
     -1px 1px 0 #91c0d6,
     1px 1px 0 #91c0d6; 
+}
+
+#houselink {
+    padding-left: 70%;
+}
+
+#GULL {
+    background-image: url('images/GULL.jpg');
+    cursor: progress;
 }
