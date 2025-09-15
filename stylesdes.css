@@ -1,0 +1,11 @@
+body {
+    background-image: url('images/website_background_2.gif');
+    margin: 0;
+    padding: 0;
+}
+
+#blackdiv {
+    background-color: black;
+    width: 100vw;
+    height: 100vh;
+}
