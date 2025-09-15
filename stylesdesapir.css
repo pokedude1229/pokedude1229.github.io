@@ -1,0 +1,6 @@
+body {
+    background-image: url('images/website_background_2.gif');
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
